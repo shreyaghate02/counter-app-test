@@ -1,4 +1,4 @@
-# react-jest-app
+# counter-app-test
 Simple app to perform Test Driven Development with React using Jest and Enzyme
 
 # Testing React applications with Jest and Enzyme
